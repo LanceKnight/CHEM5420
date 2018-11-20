@@ -6,4 +6,4 @@ A matlab realization of 2D protein-ligand docking. See .pdf for problem requirem
 
 **Result of HW7**
 
-!<result of hw7>(https://github.com/LanceKnight/CHEM5420/blob/master/hw7/result.png "Result of HW7")
+![result of hw7](https://github.com/LanceKnight/CHEM5420/blob/master/hw7/result.png "Result of HW7")
