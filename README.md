@@ -2,7 +2,7 @@
 Archive of CHEM 5420 Computational Structural Biology
 
 **Result of HW6**
-Calculate RMSD and did 2D alinment
+Calculate RMSD and did 2D alignment
 ![result of hw6](https://github.com/LanceKnight/CHEM5420/blob/master/hw6/result.png "Result of HW6")
 
 **Result of HW7**
